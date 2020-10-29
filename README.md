@@ -1,5 +1,11 @@
-# cdptools
+# Transcripts Feature for People Budget | Justice Discovery Initiative
 
+Council Data Project is an initative that started in Seattle. We are looking to reimplement this in Miami and
+South Florida to take budget hearing and other public meetings then run this software to create transcripts
+in English and Spanish. 
+
+
+## cdptools
 [![Build Status](https://github.com/CouncilDataProject/cdptools/workflows/Build%20Master/badge.svg)](https://github.com/CouncilDataProject/cdptools/actions)
 [![Documentation](https://github.com/CouncilDataProject/cdptools/workflows/Documentation/badge.svg)](https://CouncilDataProject.github.io/cdptools)
 [![Code Coverage](https://codecov.io/gh/CouncilDataProject/cdptools/branch/master/graph/badge.svg)](https://codecov.io/gh/CouncilDataProject/cdptools)
