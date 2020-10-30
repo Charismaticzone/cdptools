@@ -1,4 +1,4 @@
-# Transcripts Feature for People Budget | Justice Discovery Initiative
+# Council Data for People Budget | Justice Discovery Initiative
 
 Council Data Project is an initative that started in Seattle. We are looking to reimplement this in Miami and
 South Florida to take budget hearing and other public meetings then run this software to create transcripts
